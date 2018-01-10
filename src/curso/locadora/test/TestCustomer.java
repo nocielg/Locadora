@@ -8,7 +8,7 @@ public class TestCustomer extends TestCase {
 	Customer client;
 
 	protected void setUp() throws Exception {
-		client = new Customer("Jo�o");
+		client = new Customer("Joao");
 	}
 	
 	public void testNameCreation(){
